@@ -1,6 +1,7 @@
 <?php
 
     echo "<strong>Hello World!</strong>";
-    echo "Alteração normal"
+
+    echo "Alteração normal e mudada"
 
 ?>
