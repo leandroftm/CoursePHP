@@ -1,9 +1,11 @@
 <?php
 
-$nome = "variavel nome";
+	$nome = "variavel nome";
 
-echo $nome;
+	echo $nome;
 
-var_dump($nome);
+	echo"<br>";
+
+	var_dump($nome);
 
 ?>
