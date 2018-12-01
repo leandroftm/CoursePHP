@@ -1,0 +1,15 @@
+{
+    "name": "velden0/composer",
+    "description": "Iniciado testes com o composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Leandro Torres",
+            "email": "leandroftm@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
